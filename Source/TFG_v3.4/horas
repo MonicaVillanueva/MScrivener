@@ -1,0 +1,12 @@
+staveRecog: 4:57:39		
+headRecog:	4:19:04
+noteObj:
+	RecogPitch:	4:58 	comprobar que no se salga por arriba 
+		Sort:	0:46
+	RecogRhythm:1:37
+musicXML: 	4:09		
+	
+	
+Testing:	- Numero de pentagramas en otra partitura
+			- Notas agudas y gravas (por encima y debajo del pentagrama)
+			- Ritmo mas rapido que corcheas (y cuidado con ligaduras?)
